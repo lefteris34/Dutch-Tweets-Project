@@ -14,6 +14,8 @@ The top 10 users with the most tweets were also analyzed and their sentiment was
 
 Finally, the sentiment of tweets was analyzed based on the day of the week. It was found that Saturday and Sunday had the least sentiment tweets. It is interesting to see that even though weekends are typically associated with a more relaxed and happy mood, the sentiment of tweets during weekends was actually lower than during weekdays. This could suggest that people use social media to express negative emotions or dissatisfaction more frequently on weekends.
 
+Additionally, I attempted to create a visual of the most frequently used words in the tweets. However, due to the large size of the dataset and the complexity of the task, I encountered some difficulties in processing the data. Despite my efforts, the PC became slow and the process was taking a long time. As a result, I decided not to pursue this analysis further. 
+
 **Conclusion**
 
 In summary, this analysis of the Dutch social media collection about tweets reveals interesting insights into the sentiment of Twitter users in the Netherlands during the COVID-19 pandemic. Despite rising cases and deaths, the sentiment of tweets appears to have risen over time, indicating a potential sense of optimism among the Dutch population. It is also worth noting that the sentiment of tweets is lowest on weekends, which is contrary to the assumption that people are happier on weekends. These findings could be valuable to researchers studying the effects of the pandemic on mental health and wellbeing, as well as to businesses seeking to understand consumer sentiment in the Dutch market.
