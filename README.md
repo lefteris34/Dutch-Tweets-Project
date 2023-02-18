@@ -1,4 +1,5 @@
 Introduction
+
 This project involves analyzing a dataset of Dutch social media tweets from 1-2020 to 9-2020. The goal of this project is to gain insights into the patterns of tweet sentiment and user behavior in the Dutch social media landscape.
 Methodology
 The project started with importing necessary libraries and reading the dataset. The dataset was explored by checking the head of the data and using various methods to understand the data structure, such as info() and shape.
