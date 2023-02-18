@@ -17,3 +17,7 @@ Finally, the sentiment of tweets was analyzed based on the day of the week. It w
 **Conclusion**
 
 In summary, this analysis of the Dutch social media collection about tweets reveals interesting insights into the sentiment of Twitter users in the Netherlands during the COVID-19 pandemic. Despite rising cases and deaths, the sentiment of tweets appears to have risen over time, indicating a potential sense of optimism among the Dutch population. It is also worth noting that the sentiment of tweets is lowest on weekends, which is contrary to the assumption that people are happier on weekends. These findings could be valuable to researchers studying the effects of the pandemic on mental health and wellbeing, as well as to businesses seeking to understand consumer sentiment in the Dutch market.
+
+Note that while I initially attempted to import the data into Looker, I encountered difficulties in doing so. As a result, I opted to use Tableau to create an interactive dashboard instead. This dashboard allows for easy filtering by province and includes a map that visualizes sentiment levels across different regions. 
+
+Link to Tableau dashboard: https://public.tableau.com/app/profile/lefteris.x/viz/DutchTwitter/Dashboard1?publish=yes
